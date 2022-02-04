@@ -7,7 +7,7 @@
 int main(void)
 {
     int no1, no2;
-
+ 
     puts("二つの整数を入力せよ：");
     printf("整数a："); scanf_s("%d", &no1);        // 整数値を読み込む1
     printf("整数b："); scanf_s("%d", &no2);        // 整数値を読み込む2
